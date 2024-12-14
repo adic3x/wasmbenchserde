@@ -3,10 +3,10 @@ Result i3 12100 @ win11dev@x86-64
 ```
 tl;dr
 
-Chrome V8💪🏽
-Chrome Wasm🤮
+Chrome V8      💪🏽
+Chrome Wasm    🤮
 FF SpiderMonkey🤔
-FF Wasm💪🏽
+FF Wasm        💪🏽
 
 Browsers native json > Serde
 MsgPack > JSON
