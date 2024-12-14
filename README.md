@@ -1,4 +1,4 @@
-Result i3 12100 @ win11@x86-64
+Result i3 12100 @ win11dev@x86-64
 
 ```
 tk;dr
