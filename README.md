@@ -3,15 +3,15 @@ Result i3 12100 @ win11dev@x86-64
 ```
 tl;dr
 
-Chrome V8      💪🏽
-Chrome Wasm    🤮
-FF SpiderMonkey🤔
-FF Wasm        💪🏽
+Chrome V8       💪🏽
+Chrome Wasm     🤮
+FF SpiderMonkey 🤔
+FF Wasm         💪🏽
 
 Browsers native json > Serde
 MsgPack > JSON
 
-@msgpack/msgpack🏎️
+@msgpack/msgpack 🏎️
 ```
 
 ```
