@@ -10,33 +10,35 @@ FF Wasm💪🏽
 
 Browsers native json > Serde
 MsgPack > JSON
+
+@msgpack/msgpack🏎️
 ```
 
 (first run/second run)
 
 ---Chrome 131---
-JS JSON: 181/184
-JS MsgPack: 193/187
-Wasm/Rust JSON: 2083/895
-Wasm/Rust MsgPack: 1789/264
-Wasm/Rust MsgPack: 2268/251
+JS JSON: 181/184<br>
+JS MsgPack: 193/187<br>
+Wasm/Rust JSON: 2083/895<br>
+Wasm/Rust MsgPack: 1789/264<br>
+Wasm/Rust MsgPack: 2268/251<br>
 
 ---FF 133---
-JS JSON: 196/184
-JS MsgPack: 448/187
-Wasm/Rust JSON: 272/242
-Wasm/Rust MsgPack: 164/115
-Wasm/Rust MsgPack: 147/100
+JS JSON: 196/184<br>
+JS MsgPack: 448/187<br>
+Wasm/Rust JSON: 272/242<br>
+Wasm/Rust MsgPack: 164/115<br>
+Wasm/Rust MsgPack: 147/100<br>
 
 ---Win---
-Rust JSON: 244/227
-Rust MsgPack: 131/120
-Rust MsgPack: 104/92
+Rust JSON: 244/227<br>
+Rust MsgPack: 131/120<br>
+Rust MsgPack: 104/92<br>
 
 ---wsl Ubuntu---
-Rust JSON: 238/159
-Rust MsgPack: 128/105
-Rust MsgPack: 125/107
+Rust JSON: 238/159<br>
+Rust MsgPack: 128/105<br>
+Rust MsgPack: 125/107<br>
 
 
 ```
