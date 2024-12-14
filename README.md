@@ -5,7 +5,7 @@ tl;dr
 
 Chrome V8💪🏽
 Chrome Wasm🤮
-FF SpiderMonkey🤮
+FF SpiderMonkey🤔
 FF Wasm💪🏽
 
 Browsers native json > Serde
