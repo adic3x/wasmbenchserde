@@ -1,7 +1,7 @@
 Result i3 12100 @ win11dev@x86-64
 
 ```
-tk;dr
+tl;dr
 
 Chrome V8💪🏽
 Chrome Wasm🤮
