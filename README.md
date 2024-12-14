@@ -15,6 +15,8 @@ MsgPack > JSON
 ```
 
 ```
+(first run / second run)
+
 ---Chrome 131---
 JS JSON:            181 / 184
 JS MsgPack:         193 / 187
