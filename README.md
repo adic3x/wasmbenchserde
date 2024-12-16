@@ -1,26 +1,15 @@
 Result i3 12100 @ win11dev@x86-64
 
 ```
-tl;dr
-
-Chrome V8       💪🏽
-Chrome Wasm     🤮
-FF SpiderMonkey 🤔
-FF Wasm         💪🏽
-
-Browsers native json > Serde
-MsgPack > JSON
-
-@msgpack/msgpack 🏎️
-```
-
-```
 (first run / second run, ms)
 
 ---Chrome 131---
 JS JSON:            181 / 184
 JS MsgPack:         193 / 187
-Wasm/Rust JSON:    2083 / 895
+Wasm/Rust JSON:    1442 / 209
+Wasm/Rust MsgPack: 1689 /  90
+Wasm/Rust MsgPack: 2108 /  83
+// With opened cdevtools
 Wasm/Rust MsgPack: 1789 / 264
 Wasm/Rust MsgPack: 2268 / 251
 
